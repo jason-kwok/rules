@@ -6,4 +6,6 @@ DOMAIN,api.cloudflare.com
 DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-SUFFIX,cloudflareclient.com
 
+cloudflare-dns.com
+
 PROCESS-NAME,cloudflared
